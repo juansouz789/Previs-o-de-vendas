@@ -1,2 +1,1 @@
-# Cancelamento
-Objetivo: Entender as principais causas que levavam ao cancelamento e propor soluções para evitar isto.
+Meus projetos de estudos relacionados a área de dados.
